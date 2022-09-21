@@ -2,4 +2,4 @@
 ***Soluções em Tecnologia***
 
 ---
-https://boragora.digital
+https://boragora.app
